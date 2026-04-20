@@ -1,12 +1,12 @@
 ## **📊 Sales Data Analysis Project**
 
-**📌 Project Overview**
+## **📌 Project Overview**
 
 - This project focuses on analyzing sales data to understand revenue trends, product performance, and customer behavior. The goal is to generate meaningful insights that help businesses improve sales, optimize operations, and make better decisions.
 
 **🔑 Key Features:**
 
-- Product Information (Category, Product Name
+- Product Information (Category, Product Name)
 
 - Pricing & Profit Data
 
