@@ -1,8 +1,8 @@
+## **Sales Data Analysis**
+
 **📌 Project Overview**
 
 - This project focuses on analyzing sales data to understand revenue trends, product performance, and customer behavior. The goal is to generate meaningful insights that help businesses improve sales, optimize operations, and make better decisions.
-
-**📁 Dataset Details**
 
 **🔑 Key Features:**
 
@@ -49,14 +49,6 @@
 - Increase sales
 
 - Improve customer retention
-
-**Key questions:**
-
-- Which product generates highest revenue?
-
-- Which region performs best?
-
-- How to improve low-performing areas?
 
 **4. Data Transformation**
 
@@ -142,4 +134,3 @@
 
 - This project demonstrates how Excel, Pivot Tables, and Dashboards can transform raw data into actionable insights, helping businesses improve performance and strategy.
 
-- Dataset sourced from Kaggle.
